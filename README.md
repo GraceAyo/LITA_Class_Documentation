@@ -9,6 +9,6 @@ My first project on Data Analysis with LITA by Incubator Hub
 ## Data Sources
 
 ## Tools Used
-Microsoft Excel for Data Cleaning, Analysis and Visualization
-SQL - Structured Query Language for Quring of Data
-GitHub for Portfolio Buliding
+- Microsoft Excel for Data Cleaning, Analysis and Visualization
+- SQL - Structured Query Language for Querying of Data
+- GitHub for Portfolio Buliding
