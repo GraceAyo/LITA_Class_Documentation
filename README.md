@@ -4,12 +4,12 @@ My first project on Data Analysis with LITA by Incubator Hub
 
 ## Project Title:
 [Project Overview](project-overview)
-Data Sources
-Tools Used
-Data Cleaning and Preparations
-Exploratory Data Analysis
-Data Analysis
-Data Visualization
+[Data Sources](data-sources)
+[Tools Used](tools-used)
+[Data Cleaning and Preparations](data-cleaning-preparations)
+[Exploratory Data Analysis](exploratory-data-analysis)
+[Data Analysis](data-analysis)
+[Data Visualization](data-visualization)
 ## Project Overview
 
 ## Data Sources
