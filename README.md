@@ -3,7 +3,8 @@
 My first project on Data Analysis with LITA by Incubator Hub
 
 ## Project Title:
-[Project Overview](project-overview)
+
+[Project Overview](#project-overview)
 
 [Data Sources](data-sources)
 
