@@ -3,7 +3,13 @@
 My first project on Data Analysis with LITA by Incubator Hub
 
 ## Project Title:
-
+[Project Overview](project-overview)
+Data Sources
+Tools Used
+Data Cleaning and Preparations
+Exploratory Data Analysis
+Data Analysis
+Data Visualization
 ## Project Overview
 
 ## Data Sources
@@ -41,3 +47,9 @@ WHERE CONDITION = TRUE
 ## Data Visualization
 
 ![image](https://github.com/user-attachments/assets/69320f96-3381-4b26-93b9-3b5e31d7773e)
+
+😆
+
+|Heading 1|Heading 2|Heading 3|
+|-------|---------|---------|
+|Table 1|Table 2|Table 3|
