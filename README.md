@@ -9,9 +9,31 @@ My first project on Data Analysis with LITA by Incubator Hub
 ## Data Sources
 
 ## Tools Used
-- Microsoft Excel 
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For  Data Cleaning
   2. Analysis
   3. Visualization
+  
 - SQL - Structured Query Language for Querying of Data
 - GitHub for Portfolio Buliding
+
+## Data Cleaning and Preparations
+We performe the following actions at the initil claning of the data cleaning and preparation:
+
+1. Data loading and inspection
+2.  Handling missing variables
+3.  Data Cleaning and Formatting
+   
+## Exploratory Data Analysis
+This invloved asking some questions about data;
+- What is the overall sales trend?
+- What products are on peak selas?
+- Which products are the top selling?
+
+## Data Analysis
+This is where the DAX expression and some line of codes used during the analysis:
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
