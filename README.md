@@ -37,3 +37,7 @@ This is where the DAX expression and some line of codes used during the analysis
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+## Data Visualization
+
+![image](https://github.com/user-attachments/assets/69320f96-3381-4b26-93b9-3b5e31d7773e)
